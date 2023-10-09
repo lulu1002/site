@@ -1,0 +1,41 @@
+body {
+    background-color: black;
+    
+   
+}
+
+body div {
+    font-size: xx-large;
+    
+
+}
+
+.imagem {
+    display: flex;
+    justify-content: center;
+
+}
+
+.menu {
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-size: 200px;
+
+}
+.menu:hover {
+    color: brown;
+
+}
+ul {
+    list-style-type: none;
+}
+
+a {text-decoration: none;
+
+}
+
+nav a:hover {
+    color: brown;
+
+}
