@@ -35,6 +35,9 @@ a {text-decoration: none;
 
 }
 
+body capa {
+    background-color: black;
+
 nav a:hover {
     color: brown;
 
